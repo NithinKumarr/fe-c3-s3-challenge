@@ -1,0 +1,14 @@
+#div{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+   
+    display: inline-flex;
+   box-shadow: 2px 2px 2px 2px skyblue;
+   
+
+}
+#div1{
+    margin-top: 10px;
+ 
+}
